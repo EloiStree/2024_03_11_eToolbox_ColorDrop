@@ -1,12 +1,10 @@
 
 {                                                                   
-            "name": "be.eloistree.etoolboxcolordropEditor",          
-    "references": ["be.eloistree.etoolboxcolordrop"
+            "name": "be.elab.etoolboxcolordrop",          
+    "references": [
 ],                                                              
     "optionalUnityReferences": [],                                  
-    "includePlatforms": [                                           
-        "Editor"                                                    
-    ],                                                              
+    "includePlatforms": [],                                                  
     "excludePlatforms": [],                                         
     "allowUnsafeCode": false,                                       
     "overrideReferences": false,                                    
